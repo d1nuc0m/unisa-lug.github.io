@@ -1,16 +1,2 @@
 = UNISA LUG / p / Website
-
-Salve a tutti, in concomitanza con l'inizio del progetto Mockafeteria abbiamo deciso di portare avanti lo sviluppo del sito del LUG.
-Si cercano quindi idee ( e magari anche forza-lavoro ) per i contenuti da inserire.
-
-Al momento l'idea è
-- Breve Home Page
-- Pagina di presentazione del direttivo / ewg
-- Pagina di presentazione della community, ripresa dal post dei canali
-- Indice dei progetti
-- Agenda
-- Servizi ( Community Calendar, ... ? )
-- Link Hub
-
-Tenete conto che il tutto dovrà essere condensato in un sito statico / micro app client-only.
-Il formato preferito è AsciiDoctor.
+Proposta di sito per l'UNISA LUG, realizzata in Jekyll.
