@@ -3,8 +3,8 @@ title: UNISA LUG
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sito dell'UNISA LUG - Website of the UNISA LUG
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://d1nuc0m.github.io/unisa-lug.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/unisa-lug.github.io" # the subpath of your site, e.g. /blog
+url: "https://d1nuc0m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Theme settings
 lang: it_IT
