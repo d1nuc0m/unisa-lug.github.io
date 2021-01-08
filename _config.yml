@@ -21,6 +21,7 @@ footer: 'UNISA LUG Website - Made with  <a href="https://jekyllrb.com/">Jekyll</
 
 # Build settings
 theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-sitemap
 
