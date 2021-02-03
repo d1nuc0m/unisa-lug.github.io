@@ -1,15 +1,18 @@
 ---
+:page-liquid:
 title: Direttivo&EWG
+description: Unisa LUG - Direttivo&EWG
+lang: it_IT
 layout: page
 permalink: /direttivo-ewg
 ---
-# Direttivo ed EWG
+= Direttivo/EWG
 
-## Direttivo
+== Direttivo
 È previsto che una associazione abbia un atto costitutivo, uno statuto ed un Consiglio Direttivo.
 Al momento per cause di forza maggiore (leggasi emergenza Coronavirus), non è stato ancora possibile né costituire l'UNISA LUG come associazione né organizzare delle elezioni interne.
 Al momento gli admin/fondatori fungono da sorta di "direttivo pro tempore" oltre a fungere propriamente da admin dei canali/gruppi/progetti.
 
-## EWG
+== EWG
 L'EWG (Evolution Working Group) è il gruppo dove effettivamente si propone/discute/lavora sulle future iniziative del LUG.
-Il gruppo è costituito dagli admin e da membri del LUG distintisi per collaborazione e serietà.
+Il gruppo è costituito dagli admin (in quanto "direttivo pro tempore") e da membri del LUG distintisi per collaborazione e serietà.

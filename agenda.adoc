@@ -1,9 +1,12 @@
 ---
+:page-liquid:
 title: Agenda
+description: Unisa LUG - Agenda
+lang: it_IT
 layout: page
 permalink: /agenda
 ---
-# Agenda
+= Agenda
 
 Eventi d'interesse, sia organizzati dal LUG che esterni.
 

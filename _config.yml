@@ -1,28 +1,35 @@
 # Site settings
 title: UNISA LUG
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Sito dell'UNISA LUG - Website of the UNISA LUG
+description: Sito dell'UNISA LUG - Website of the UNISA LUG  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unisa-lug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-#Theme settings
+
+
+asciidoctor:
+  attributes:
+  - showtitle=@
+
+ #Theme settings
 lang: it_IT
 header_pages:
-  - index.markdown
-  - agenda.markdown
-  - community.markdown
-  - direttivo-EWG.markdown
-  - learning-resources.markdown
-  - progetti.markdown
-style: light
-listen_for_clients_preferred_style: true
-footer: 'UNISA LUG Website - Made with  <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll-theme-console</a>'
+  - index.adoc
+  - agenda.adoc
+  - community.adoc
+  - direttivo-EWG.adoc
+  - learning-resources.adoc
+  - progetti.adoc
+style: hacker
+listen_for_clients_preferred_style: false
+footer: 'UNISA LUG Website - Made with FOSS: <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/asciidoctor/jekyll-asciidoc">Jekyll AsciiDoc Plugin</a> and <a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll-theme-console</a>'
 
 # Build settings
 theme: jekyll-theme-console
 plugins:
-  - jekyll-sitemap
+    - jekyll-asciidoc
+    - jekyll-sitemap
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
